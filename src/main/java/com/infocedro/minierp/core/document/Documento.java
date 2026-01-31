@@ -94,4 +94,8 @@ public class Documento {
     public List<ItemDocumento> getItens() {
         return Collections.unmodifiableList(itensDocumento);
     }
+
+    public List<ItemDocumento> getItensDocumento() {
+        return Collections.unmodifiableList(itensDocumento);
+    }
 }
