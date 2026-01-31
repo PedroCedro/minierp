@@ -1,4 +1,9 @@
-# Mini ERP
+## Mini ERP
+
+Versão atual: **0.1.0**
+
+Projeto em fase inicial de construção do domínio (Documento, itens e regras de negócio).
+
 
 Projeto de um Mini ERP construído com foco em estabilidade, clareza e evolução consciente.
 
