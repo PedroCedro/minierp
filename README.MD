@@ -1,11 +1,21 @@
 ## Mini ERP
 
-Versão atual: **0.2.0**
+Versão atual: **0.3.0**
 
-Projeto em fase inicial de construção do domínio (Documento, itens e regras de negócio).
+Projeto em fase inicial de construção do domínio, com foco em clareza,
+coerência e evolução consciente.
 
+Nesta versão:
+– Domínio base consolidado (`Documento`, tipos e estados)
+– Introdução do processo de **Conferência de Documentos**
+– Comparação entre documentos (ex: pedido × nota)
+– Resultado explícito de conferência (`OK` / `DIVERGENTE`)
+– Regras de negócio cobertas por testes de domínio
+– Estrutura de pacotes padronizada (document / conference)
 
-Projeto de um Mini ERP construído com foco em estabilidade, clareza e evolução consciente.
+Projeto de um Mini ERP construído com foco em estabilidade, clareza
+e crescimento controlado do domínio.
+
 
 ## Propósito
 
