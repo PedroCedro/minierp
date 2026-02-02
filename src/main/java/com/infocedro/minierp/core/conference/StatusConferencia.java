@@ -1,4 +1,4 @@
-package com.infocedro.minierp.core.conferencia;
+package com.infocedro.minierp.core.conference;
 
 public enum StatusConferencia {
     OK,

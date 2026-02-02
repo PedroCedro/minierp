@@ -1,4 +1,4 @@
-package com.infocedro.minierp.core.conferencia;
+package com.infocedro.minierp.core.conference;
 
 import com.infocedro.minierp.core.document.Documento;
 import com.infocedro.minierp.core.document.ItemDocumento;

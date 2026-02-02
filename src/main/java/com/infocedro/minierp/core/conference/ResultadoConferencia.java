@@ -1,4 +1,4 @@
-package com.infocedro.minierp.core.conferencia;
+package com.infocedro.minierp.core.conference;
 
 import java.util.ArrayList;
 import java.util.Collections;

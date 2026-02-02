@@ -1,5 +1,8 @@
-package com.infocedro.minierp.core.conferencia;
+package com.infocedro.minierp.core.conference;
 
+import com.infocedro.minierp.core.conference.ConferenciaDocumento;
+import com.infocedro.minierp.core.conference.ResultadoConferencia;
+import com.infocedro.minierp.core.conference.StatusConferencia;
 import com.infocedro.minierp.core.document.Documento;
 import com.infocedro.minierp.core.document.ItemDocumento;
 import com.infocedro.minierp.core.document.TipoDocumento;
